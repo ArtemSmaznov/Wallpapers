@@ -8,9 +8,9 @@ I have amalgamated these images from a number of sources and unfortunately I do 
 
 * Wallpaper sources
 - [[https://unsplash.com/wallpapers][Unsplash]]
-- =Reddit=
+- Reddit
   + [[https://www.reddit.com/r/wallpapers/][wallpapers]]
+  + [[https://www.reddit.com/r/wallpaper/][wallpaper]]
   + [[https://www.reddit.com/r/earthporn/][earthporn]]
   + [[https://www.reddit.com/r/spaceporn/][spaceporn]]
-  + [[https://www.reddit.com/r/wallpaper/][wallpaper]]
   + [[https://www.reddit.com/r/pic/][pic]]
