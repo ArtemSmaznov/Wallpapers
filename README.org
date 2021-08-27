@@ -6,6 +6,10 @@
 * Ownership
 I have amalgamated these images from a number of sources and unfortunately I do not know if any are copyright protected. If you find an image hosted in this repository that is yours and of limited use, please let me know and I will be happy to remove it.
 
+I copied a number of wallpapers from these repositories:
+- [[https://gitlab.com/dwt1/wallpapers][DistroTube]]
+- [[https://gitlab.com/exorcist365/wallpapers][exorcist365]]
+
 * Wallpaper sources
 - [[https://unsplash.com/wallpapers][Unsplash]]
 - Reddit
@@ -13,4 +17,5 @@ I have amalgamated these images from a number of sources and unfortunately I do 
   + [[https://www.reddit.com/r/wallpaper/][wallpaper]]
   + [[https://www.reddit.com/r/earthporn/][earthporn]]
   + [[https://www.reddit.com/r/spaceporn/][spaceporn]]
+  + [[https://www.reddit.com/r/unixporn/][unixporn]]
   + [[https://www.reddit.com/r/pic/][pic]]
